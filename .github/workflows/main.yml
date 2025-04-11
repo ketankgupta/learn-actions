@@ -1,6 +1,6 @@
 name: Generate podcast feed
 on: [push]
-job: 
+jobs: 
   build: 
     runs-on: ubuntu-latest
     steps: 
